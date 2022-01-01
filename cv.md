@@ -1,6 +1,4 @@
-# Belkin Pavel
-
-----
+# Pavel Belkin
 
 ## My Contact Info
 
@@ -29,7 +27,7 @@ I started to learn programming from front-end development and I am sure that I w
 
 ----
 
-## Code example:
+## Code example
 ```
 function isAnagram(first, second) {
 
@@ -57,7 +55,7 @@ function isAnagram(first, second) {
 
 ----
 
-## Language:
+## Languages
 
 - Russian - native speaker
 - English - A2
