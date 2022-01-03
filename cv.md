@@ -12,8 +12,7 @@
 
 ## About Me
 
-I am 32 years. For the last 4 years I have been working as a foreman in the field of gas pipeline construction. I decided to change my field of activity to IT, as I consider this direction to be the most avant-garde and key for the development of modern society.
-I started to learn programming from front-end development and I am sure that I will succeed in it thanks to the course of RSSchool!
+I am 32 years. For the last 4 years I have been working as a foreman in the field of gas pipeline construction. I decided to change my field of activity to IT, as I consider this direction to be the most avant-garde and key for the development of modern society.I started learning programming with front-end development and am confident that I will succeed thanks to my strong desire and RSSchool course!
 
 ----
 
@@ -33,13 +32,18 @@ function isAnagram(first, second) {
 
    let a = first.toLowerCase();
    let b = second.toLowerCase();
-
    a = a.split("").sort().join("");
    b = b.split("").sort().join("");
 
    return a === b;
 }
 ```
+
+----
+
+## Projects
+
+- [CV](https://Sonusunda.github.io/rsschool-cv/)
 
 ----
 
@@ -54,10 +58,6 @@ function isAnagram(first, second) {
     - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ----
-
-## Projects
-
-- [CV](https://Sonusunda.github.io/rsschool-cv/)
 
 ## Languages
 
