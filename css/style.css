@@ -1,0 +1,147 @@
+@media (max-width: 768px) {
+   .section {
+      width: 100%;
+   }
+}
+
+* {
+   box-sizing: border-box;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+body {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   min-height: 100vh;
+   min-width: 320px;
+   margin: 0;
+   padding: 0;
+   font-family: "Oswald", sans-serif;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 1.5;
+   background: #d1cdccb0;
+}
+
+.header {
+   background: #4c170f;
+}
+
+.container {
+   max-width: 1440px;
+   margin: 0 auto;
+}
+
+.nav-list {
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   list-style: none;
+}
+
+.nav-link {
+   padding: 0 20px;
+   line-height: 50px;
+   text-decoration: none;
+   transition: 0.3s;
+}
+
+.nav-item a {
+   color: #829985;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+.nav-item a:hover {
+   color: #fcfcfc;
+}
+
+.main-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.photo {
+   width: 300px;
+   border-radius: 50%;
+}
+
+.main {
+   margin-bottom: auto;
+}
+
+.section {
+   width: 50%;
+   padding: 10px 0 0 20%;
+}
+
+.section-title {
+   font-size: 20px;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+   color: #8117ac;
+}
+
+.contact-link {
+   color: #829985;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+.contact-link:hover {
+   color: #fcfcfc;
+}
+
+.code-style {
+   padding: 0 0 0 50px;
+   letter-spacing: 1px;
+   background: rgba(143, 137, 137, 0.52);
+   border-radius: 5%;
+}
+
+.cv-link {
+   color: #829985;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+.cv-link:hover {
+   color: #8117ac;
+}
+
+.cours-link {
+   text-decoration: none;
+   transition: 0.3s;
+}
+
+.footer {
+   padding: 20px;
+   background: #4c170f;
+}
+
+.footer-container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 0 auto;
+   color: #fff;
+}
+
+.date {
+   margin: 0 10px 0 0;
+   color: #829985;
+}
+
+.rss {
+   width: 121px;
+   height: 45px;
+   background-image: url("../assets/svg/rs_school_js.svg");
+   background-size: contain;
+   background-repeat: no-repeat;
+}
