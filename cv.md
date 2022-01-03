@@ -55,6 +55,10 @@ function isAnagram(first, second) {
 
 ----
 
+## Projects
+
+- [CV](https://Sonusunda.github.io/rsschool-cv/)
+
 ## Languages
 
 - Russian - native speaker
